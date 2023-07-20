@@ -1,0 +1,10 @@
+<!DOCTYPE>
+<html>
+<head>
+<title> web page title </title>
+</head>
+<body>
+<h1> the simpli learn project </h1>
+<p> this page is design for login </p>
+</body>
+</html>
